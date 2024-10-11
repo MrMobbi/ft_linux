@@ -47,6 +47,11 @@ To get started with Linux From Scratch, follow these steps:
 6. **Configure the System**: Configure your new system to meet your requirements (e.g., set up networking, user accounts, etc.).
 7. **Boot Your LFS System**: Reboot into your new Linux From Scratch system!
 
+## Package List
+
+You can find the list of packages used in this project in the `wget-list-pack` file located in this repository: 
+[wget-list-pack](https://github.com/MrMobbi/ft_linux/blob/main/wget-list-pack).
+
 ## Documentation
 
 Refer to the [LFS Book](https://www.linuxfromscratch.org/lfs/view/stable/index.html) for detailed instructions and explanations of each step involved in the LFS build process.
